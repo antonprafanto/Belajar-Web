@@ -1,0 +1,42 @@
+.header{
+    background-color: #26d0c9;
+    height: 90px;
+    color: #fff;
+}
+
+li{
+    list-style: none;
+    float: left;
+    padding: 33px 20px;
+}
+
+.header-logo{
+    font-size:36px;
+    float: left;
+    padding: 20px 40px;
+}
+
+.main{
+    background-color:#bdf7f1;
+    height: 600px;
+}
+
+.footer{
+    background-color:#2f5167;
+    color: #fff;
+    height:120px;
+    padding: 40px;
+}
+
+.footer-logo{
+    font-size:32px;
+    float: left;
+}
+
+.footer-list{
+    float: right;
+}
+
+.footer-list li{
+    padding-bottom: 20px;
+}
